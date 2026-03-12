@@ -77,12 +77,10 @@ developer productivity tools.**
 
 ## 🧪 Notable Projects
 
-### 🧺 Data Bucket UI
+### 🧺 Data Bucket
 
-Developer tool for storing, managing, and visualizing structured
-automation data.
+Data Bucket is a powerful yet lightweight API service designed for testing webhooks, debugging API integrations, and rapid prototyping. Capture any HTTP request, configure mock responses, and inspect payloads with ease.
 
-🔗 https://github.com/ajoealex/data-bucket-ui
 🔗 https://ajoealex.github.io/data-bucket-ui/
 
 ------------------------------------------------------------------------
