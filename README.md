@@ -120,13 +120,32 @@ automation sessions.
 
 ------------------------------------------------------------------------
 
+🌐 ChromeDriver Download Helper
+
+Utility that helps automation engineers quickly find and download the correct ChromeDriver version compatible with a specific Chrome browser version.
+
+Live Tool
+🔗 https://ajoealex.github.io/chromedriver-download-helper/
+
+Repository
+🔗 https://github.com/ajoealex/chromedriver-download-helper
+
+------------------------------------------------------------------------
+
+### 🚫 URL Blocker (Tab URL Blocker 404)
+
+Chrome extension that blocks websites based on configurable URL patterns.  
+The extension stores blocking rules locally and can optionally report blocked events to a configured endpoint.
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-green?logo=googlechrome)](https://chromewebstore.google.com/detail/tab-url-blocker-404/kokjfejdghjdinfjhhpbihljmcfpjaci)
+
+**Project Page**  
+🔗 https://ajoealex.github.io/url-blocker/
+------------------------------------------------------------------------
+
 ## 📊 GitHub Stats
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=ajoealex&show_icons=true&theme=tokyonight)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajoealex&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajoealex&show_icons=true&theme=tokyonight)
 
 ------------------------------------------------------------------------
 
