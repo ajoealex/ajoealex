@@ -83,6 +83,7 @@ Developer tool for storing, managing, and visualizing structured
 automation data.
 
 🔗 https://github.com/ajoealex/data-bucket-ui
+🔗 https://ajoealex.github.io/data-bucket-ui/
 
 ------------------------------------------------------------------------
 
