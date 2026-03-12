@@ -159,7 +159,7 @@ https://ajoealex.github.io/portfolio/
 https://github.com/ajoealex
 
 💼 LinkedIn
-(Add your LinkedIn profile here)
+www.linkedin.com/in/ajoealex
 
 ------------------------------------------------------------------------
 
