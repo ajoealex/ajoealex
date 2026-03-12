@@ -65,6 +65,8 @@ My focus is on building **enterprise‑grade automation frameworks and developer
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android\&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
@@ -74,6 +76,10 @@ My focus is on building **enterprise‑grade automation frameworks and developer
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?logo=mysql\&logoColor=white)
 
 ### 🐳 Infrastructure & DevOps
 
@@ -81,23 +87,35 @@ My focus is on building **enterprise‑grade automation frameworks and developer
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins\&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?logo=portainer\&logoColor=white)
+![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?logo=proxmox\&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions\&logoColor=white)
 
 ### 🧪 Automation & Developer Tooling
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium\&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-EE376D?logo=appium\&logoColor=white)
-![Chrome DevTools Protocol](https://img.shields.io/badge/Chrome_DevTools_Protocol-4285F4?logo=googlechrome\&logoColor=white)
+![ACCELQ](https://img.shields.io/badge/ACCELQ-Automation_Platform-4B6EF5)
+![REST API](https://img.shields.io/badge/REST_API-02569B)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger\&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
+![Chrome DevTools Protocol](https://img.shields.io/badge/Chrome_DevTools_Protocol-4285F4?logo=googlechrome\&logoColor=white)
 
 ### 🛠️ IDEs & Development Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea\&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide\&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide\&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio\&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira\&logoColor=white)
 
-##
+### 🎨 Frontend Libraries & Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-20232A?logo=react\&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery\&logoColor=white)
 
 ---
 
@@ -189,6 +207,3 @@ Repository
 
 [https://www.linkedin.com/in/ajoealex](https://www.linkedin.com/in/ajoealex)
 
----
-
-⭐ If you like my projects, consider giving them a **star**.
