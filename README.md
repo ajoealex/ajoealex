@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajoe Alex 🚀
 
-🧑‍💻 **Senior Software Engineer \| Automation Architect \| DevOps
+🧑‍💻 **Senior Software Engineer | Automation Architect | DevOps
 Enthusiast**
 
 🌐 Portfolio: https://ajoealex.github.io/portfolio/
@@ -14,11 +14,11 @@ platforms, developer tooling, and scalable infrastructure.
 
 💡 Areas I actively work in:
 
--   🤖 Test Automation Platforms\
--   🌐 Selenium / Appium Ecosystem\
--   🧩 WebDriver APIs & Browser Automation\
--   🐳 DevOps & Containerized Infrastructure\
--   ⚙️ Full‑stack Developer Tools\
+-   🤖 Test Automation Platforms
+-   🌐 Selenium / Appium Ecosystem
+-   🧩 WebDriver APIs & Browser Automation
+-   🐳 DevOps & Containerized Infrastructure
+-   ⚙️ Full‑stack Developer Tools
 -   🔎 Automation Debugging Frameworks
 
 My focus is on building **enterprise‑grade automation frameworks and
@@ -30,30 +30,30 @@ developer productivity tools.**
 
 ### 🤖 Automation
 
--   Selenium\
--   Appium\
--   Browser Automation\
+-   Selenium
+-   Appium
+-   Browser Automation
 -   Test Framework Architecture
 
 ### ⚙️ Backend
 
--   Node.js\
--   Java\
--   Express\
+-   Node.js
+-   Java
+-   Express
 -   REST APIs
 
 ### 🐳 DevOps
 
--   Docker\
--   Kubernetes\
--   CI/CD pipelines\
+-   Docker
+-   Kubernetes
+-   CI/CD pipelines
 -   Security scanning (Trivy, Grype)
 
 ### 🎨 Frontend
 
--   React\
--   Vite\
--   TailwindCSS\
+-   React
+-   Vite
+-   TailwindCSS
 -   Chrome Extensions
 
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ developer productivity tools.**
 
 💻 **Languages & Platforms**
 
-`Java` `Node.js` `JavaScript` `Selenium` `Appium`\
+`Java` `Node.js` `JavaScript` `Selenium` `Appium`
 `Docker` `Kubernetes` `Linux` `Nginx`
 
 🎨 **Frontend Stack**
@@ -133,13 +133,13 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajoeal
 
 ## 🌐 Connect With Me
 
-🌍 Portfolio\
+🌍 Portfolio
 https://ajoealex.github.io/portfolio/
 
-🐙 GitHub\
+🐙 GitHub
 https://github.com/ajoealex
 
-💼 LinkedIn\
+💼 LinkedIn
 (Add your LinkedIn profile here)
 
 ------------------------------------------------------------------------
