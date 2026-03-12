@@ -136,6 +136,7 @@ Repository
 
 Chrome extension that blocks websites based on configurable URL patterns.  
 The extension stores blocking rules locally and can optionally report blocked events to a configured endpoint.
+
 Repository
 🔗 https://ajoealex.github.io/url-blocker/
 
