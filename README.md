@@ -136,11 +136,11 @@ Repository
 
 Chrome extension that blocks websites based on configurable URL patterns.  
 The extension stores blocking rules locally and can optionally report blocked events to a configured endpoint.
+Repository
+🔗 https://ajoealex.github.io/url-blocker/
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-green?logo=googlechrome)](https://chromewebstore.google.com/detail/tab-url-blocker-404/kokjfejdghjdinfjhhpbihljmcfpjaci)
 
-Repository
-🔗 https://ajoealex.github.io/url-blocker/
 ------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
